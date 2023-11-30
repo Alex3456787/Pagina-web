@@ -21,23 +21,6 @@ sobre el , fotografias y acceso a sus redes sociales.Otra sección de contacto i
 1. **Requisitos Previos:**
     - [Listar cualquier requisito previo que deba cumplirse antes de la instalación.]
 
-2. **Clonar el Repositorio:**
-    ```bash
-    git clone https://github.com/tu_usuario/tu_proyecto.git
-    cd tu_proyecto
-    ```
-
-3. **Instalar Dependencias:**
-    ```bash
-    npm install   # O cualquier otro gestor de paquetes que estés utilizando
-    ```
-
-4. **Configuración:**
-    - [Instrucciones para configurar cualquier configuración necesaria, como variables de entorno, archivos de configuración, etc.]
-
-## Uso
-
-[Proporciona instrucciones detalladas sobre cómo usar tu aplicación o página web. Incluye ejemplos y capturas de pantalla si es posible.]
 
 ## Problemas Durante el Desarrollo
 
