@@ -8,7 +8,7 @@
 ## Descripción del Trabajo
 
 Mi trabajo se basa en la creaccion de una pagina web con diversas funciones; te permite  ver el programa de la asignatura (Fundamentos de Ingenieria informática ),
-mostrando los diferentes temas agrupados y sobre los temas de los que trate la asignatura.Ademas de un breve resumen de la parte de la asignatura del desarrollo web.También hay una seccion de la pagina dedicada al autor , con una descripcion sobre el , fotografias y acceso a sus redes sociales.Otra sección de contacto incluyendo un formulario.Una seccion de red que incluira diferentes páginas web de compañeros de clase y una última sección que incluye un tema elegido por el autor para desarrollarlo. 
+mostrando los diferentes temas agrupados y sobre los temas de los que trata la asignatura.Ademas de un breve resumen de la parte de la asignatura del desarrollo web.También hay una seccion de la pagina dedicada al autor , con una descripcion sobre mi , fotografias y acceso a mis redes sociales.Otra sección de contacto incluyendo un formulario.Una seccion de red que incluira diferentes páginas web de compañeros de clase y una última sección que incluye un tema elegido por el autor para desarrollarlo. 
 
 
 ## Estructura del Proyecto
