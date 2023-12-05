@@ -7,7 +7,7 @@
 
 #fondo{
    
-    background-image: url('/imagenes/foto.png');
+    background-image: url('../imagenes/foto.png');
     background-size: cover;
     
 }
