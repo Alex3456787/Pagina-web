@@ -49,8 +49,8 @@ h1{
   justify-content: center;
 }
 
-.car, img {
-  margin: auto;
+.car {
+  margin-left: 25cm;
 }
 
 .fon{
