@@ -46,13 +46,9 @@ h1{
 }
 
 .car {
-  margin: auto;
-      display: block;
+  margin-left: 24cm;
 }
-.estadio{
-   margin: auto;
-      display: block;
-}
+
 
 .fon{
     background-color: rgb(173, 208, 210);
