@@ -1,4 +1,4 @@
-
+3
 
 .margen{
     text-decoration: underline;
@@ -45,9 +45,14 @@ h1{
     margin-right: 2cm;
 }
 
-.car {
-  margin-left: 24cm;
-}
+body {
+      text-align: center;
+      margin: 0;
+    }
+    .car, .estadio {
+      display: inline-block;
+      margin: auto;
+    }
 
 
 .fon{
