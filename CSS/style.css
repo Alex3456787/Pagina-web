@@ -49,13 +49,13 @@ body {
       text-align: center;
       margin: 0;
     }
-    .car, .estadio {
-      display: inline-block;
-      margin: auto;
-    }
-.car{
-    margin-left: 24cm;
+    .car , .estadio{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 }
+
 
 
 .fon{
