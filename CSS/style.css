@@ -46,19 +46,6 @@ h1{
 }
 
 
-    .car {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 20%;
-}
-.estadio{
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 20%;
-}
-
 .fon{
     background-color: rgb(173, 208, 210);
 }
@@ -169,3 +156,6 @@ tr:hover {
 span{
     margin-left: 10px;
 }
+
+.imageEdit{
+    position: relative; left: 17px;
