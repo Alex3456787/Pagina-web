@@ -46,7 +46,8 @@ h1{
 }
 
 .car {
-  text-align: center;
+  margin: auto;
+      display: block;
 }
 .estadio{
     text-align: center;
