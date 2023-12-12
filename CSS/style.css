@@ -50,7 +50,8 @@ h1{
       display: block;
 }
 .estadio{
-    text-align: center;
+   margin: auto;
+      display: block;
 }
 
 .fon{
