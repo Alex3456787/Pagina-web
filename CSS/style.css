@@ -44,16 +44,12 @@ h1{
     margin-left: 2cm;
     margin-right: 2cm;
 }
-.container {
-  display: flex;
-  justify-content: center;
-}
 
 .car {
   margin-left: 25cm;
 }
 .estadio{
-    margin-left: 27cm;
+    margin-right: 27cm;
 }
 
 .fon{
@@ -66,7 +62,7 @@ body,  h3 {
     padding: 0;
 }
 
-/* Estilo para el body */
+
 .contacto{
     font-family: Arial, sans-serif;
     
