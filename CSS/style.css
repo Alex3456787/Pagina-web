@@ -60,7 +60,7 @@ h1{
     background-color: rgb(173, 208, 210);
 }
 
-/* Reset de estilos para el body y el encabezado */
+
 body,  h3 {
     margin: 0;
     padding: 0;
@@ -73,13 +73,13 @@ body,  h3 {
     color: #333;
 }
 
-/* Estilo para el encabezado h1 */
+
 .contacto {
     text-align: center;
-    color: #4a4489; /* Azul brillante, puedes cambiarlo según tu preferencia */
+    color: #4a4489; 
 }
 
-/* Estilo para el menú de navegación */
+
 h2.links {
     text-align: center;
 }
@@ -87,7 +87,7 @@ h2.links {
 
 
 
-/* Estilo para los formularios */
+
 form {
     max-width: 400px;
     margin: 0 auto;
@@ -106,28 +106,28 @@ input {
     box-sizing: border-box;
 }
 
-/* Estilo para el botón de enviar */
+
 input[type="submit"] {
     background-color: #007bff;
     color: #fff;
     cursor: pointer;
 }
 
-/* Estilo para el espacio entre formularios */
+
 br {
     margin-bottom: 15px;
 }
 .fondofunda{
     background-color: rgb(161, 190, 198);
 }
-/* Estilo para la tabla */
+
 table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
 }
 
-/* Estilo para las celdas de encabezado (th) */
+
 th {
     background-color: #007bff;
     color: #fff;
@@ -135,18 +135,18 @@ th {
     text-align: left;
 }
 
-/* Estilo para las celdas de datos (td) */
+
 td {
     border: 1px solid #ddd;
     padding: 10px;
 }
 
-/* Estilo para las filas impares */
+
 tr:nth-child(odd) {
     background-color: #f9f9f9;
 }
 
-/* Estilo para resaltar cuando se pasa el ratón sobre una fila */
+
 tr:hover {
     background-color: #61b073;
 }
